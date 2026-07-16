@@ -1,7 +1,6 @@
 package day02;
 
 
-import javax.swing.tree.TreeNode;
 
 /**
  * 572. 另一棵树的子树
